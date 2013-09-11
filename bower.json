@@ -15,6 +15,9 @@
   ],
   "dependencies": {
     "ember": "latest",
-    "ember-data": "latest"
+    "ember-data-shim": "latest"
+  },
+  "resolutions": {
+    "jquery": "2.0.3"
   }
 }
